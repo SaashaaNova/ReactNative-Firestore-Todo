@@ -1,2 +1,3 @@
-# ReactNative-Firestore-Todo
-ReactNative&amp;Firestore Todo
+# ReactNative-Todo
+
+ReactNative&amp; Todo
